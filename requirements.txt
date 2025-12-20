@@ -1,0 +1,10 @@
+numpy
+pandas
+tensorflow>=2.10
+scikit-learn
+stable-baselines3[extra]
+gymnasium
+prometheus-client
+kubernetes
+torch  # for stable-baselines3
+shimmy>=2.0
